@@ -222,7 +222,6 @@ SOC detects harmful activities using security solutions and monitoring technique
     
 
 ---
-
 # Security Operations Center (SOC) (THM)
 
 - A **SOC** provides centralized monitoring and incident response.

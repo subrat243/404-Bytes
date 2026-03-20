@@ -228,7 +228,6 @@
     
 
 ---
-
 # Digital Forensics (THM)
 
 - **Digital Forensics** investigates cyber crimes using structured procedures.
