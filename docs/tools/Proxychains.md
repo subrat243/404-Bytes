@@ -1,3 +1,5 @@
+# Proxychains
+
 ## Introduction
 
 Proxychains is a tool that allows you to redirect network traffic of an application through one or more proxy servers. Instead of using a single proxy, it can use multiple proxies in a chain, making it much harder to trace the real IP address.

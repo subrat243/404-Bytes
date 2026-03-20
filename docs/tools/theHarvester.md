@@ -1,3 +1,5 @@
+# theHarvester
+
 ## Overview
 
 **theHarvester** is an open-source reconnaissance tool used to collect information about a target domain or organization from publicly available sources (OSINT). It helps ethical hackers, penetration testers, and security analysts gather critical details like email addresses, subdomains, IPs, and employee names during the **information gathering** phase of penetration testing.

@@ -1,3 +1,5 @@
+# Hydra
+
 ### 1. What is Hydra?
 
 - **Hydra** is a **brute force online password cracking tool**.

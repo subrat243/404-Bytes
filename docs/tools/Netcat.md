@@ -43,7 +43,7 @@ Bash
 
 ```
 nc -vz <target_ip> <port>
-# Example: nc -vz 192.168.1.1 80
+# Netcat
 ```
 
 **Scan a range of ports:**

@@ -1,3 +1,5 @@
+# Google Dorking
+
 ## Advanced Searching
 
 Google Dorking describes the process of using advanced search filters that allow to retrieve more efficient results. It is a technique often used by cybersecurity professionals in order to find valuable information about a target. While Google Dorking itself is legal (in most countries), it might quickly lead to actions that aren't, such as visiting a site with illegal content in it. Hence using [TOR](https://www.torproject.org/) or a [VPN](https://privacyguides.org/vpn/) is recommended. It is also beneficial to use a search aggregator like [SearX](https://searx.github.io/searx/).

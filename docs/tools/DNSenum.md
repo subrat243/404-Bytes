@@ -1,3 +1,5 @@
+# DNSenum
+
 ## What is DNSenum?
 
 DNSenum is a multithreaded Perl script designed for **DNS enumeration**. Its primary purpose is to gather as much information as possible about a target domain. It can discover various DNS records (such as A, NS, and MX), attempt zone transfers, perform subdomain brute-forcing, and conduct reverse lookups on netranges. It is a fundamental tool used during the information-gathering phase of a security assessment or penetration test.

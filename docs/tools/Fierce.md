@@ -1,3 +1,5 @@
+# Fierce
+
 ## Introduction
 
 Fierce is a DNS reconnaissance tool designed for network mapping and footprinting. Its primary purpose is to discover hostnames and non-contiguous IP blocks associated with a target domain. It is a classic tool used by penetration testers and security analysts during the initial information-gathering phase of a security assessment.

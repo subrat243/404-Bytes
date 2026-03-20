@@ -1,3 +1,5 @@
+# Enum4linux
+
 `enum4linux` is a command-line tool used for enumerating information from Windows and Samba systems. It is essentially a wrapper around various Samba tools like `smbclient`, `rpclient`, `net`, and `nmblookup` to extract data from a target system over the SMB/CIFS protocol. It is a popular tool in penetration testing and security auditing for discovering potential vulnerabilities related to misconfigurations in Windows and Samba services.
 
 ---

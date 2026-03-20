@@ -1,4 +1,4 @@
-# Overview
+# Social-Engineer Toolkit (SET)
 
 The Social-Engineer Toolkit (SET) is a Python-based framework designed for simulating social-engineering attacks during penetration testing. It includes modules for phishing, credential harvesting, payload generation, and training simulations.
 

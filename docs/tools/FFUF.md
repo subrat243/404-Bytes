@@ -28,7 +28,7 @@ go install github.com/ffuf/ffuf/v2@latest
 Alternatively, on systems with package managers like APT (Debian/Ubuntu) or Homebrew (macOS):
 
 ```bash
-# For Debian/Ubuntu
+# FFUF
 sudo apt update && sudo apt install ffuf
 
 # For macOS

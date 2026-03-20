@@ -381,7 +381,7 @@ gobuster dir -u http://blog.example.tld \
   -x .php \
   -s 200,301,401,403 \
   -t 50
-# Then:
+# Gobuster
 gobuster dir -u http://blog.example.tld/wp-content/ \
   -w /usr/share/wordlists/dirb/common.txt \
   -s 200,301,401,403

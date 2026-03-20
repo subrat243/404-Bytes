@@ -1,3 +1,5 @@
+# Subfinder
+
 ## Overview
 
 **Subfinder** is a fast and powerful subdomain discovery tool designed to find valid subdomains for websites. It is developed by **ProjectDiscovery** and is widely used in bug bounty, penetration testing, and reconnaissance. Subfinder uses passive online sources, DNS enumeration, and certificate transparency logs to gather subdomains efficiently without making direct DNS brute-force attempts.

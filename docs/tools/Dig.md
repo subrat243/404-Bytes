@@ -1,3 +1,5 @@
+# Dig
+
 `dig` (Domain Information Groper) is a powerful command-line tool used for querying DNS (Domain Name System) servers. It is commonly used by network administrators, cybersecurity professionals, and developers to perform DNS lookups, troubleshoot DNS-related issues, and verify DNS configurations.
 
 It replaces older tools like `nslookup` and `host` due to its flexibility, advanced query options, and structured output.

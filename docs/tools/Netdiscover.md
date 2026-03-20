@@ -37,7 +37,7 @@ To perform a standard active scan on a specific network interface, you first nee
 Bash
 
 ```bash
-# Replace eth0 with your network interface
+# Netdiscover
 sudo netdiscover -i eth0
 ```
 

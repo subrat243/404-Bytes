@@ -1,3 +1,5 @@
+# DNSRecon
+
 ## Overview
 
 **DNSRecon** is a powerful DNS enumeration and reconnaissance tool written in Python. It is used by cybersecurity professionals and penetration testers to gather DNS-related information about a target domain. The tool performs multiple types of DNS queries to identify misconfigurations, exposed hosts, and potential attack vectors within a domain’s DNS infrastructure.

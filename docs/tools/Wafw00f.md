@@ -1,3 +1,5 @@
+# Wafw00f
+
 ## Overview
 
 **WAFW00F** (Web Application Firewall Fingerprinting Tool) is a Python-based security tool used to detect and identify Web Application Firewalls (WAFs) protecting a target web application. It helps penetration testers and security researchers understand what security mechanisms are in place before performing further testing.

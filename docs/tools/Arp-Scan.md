@@ -1,3 +1,5 @@
+# Arp-Scan
+
 `arp-scan` is a command-line tool used to discover hosts on a local network by sending and receiving ARP (Address Resolution Protocol) packets. It provides a quick and effective way to identify active devices and map their IP addresses to MAC addresses.
 
 ---

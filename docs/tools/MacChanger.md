@@ -1,3 +1,5 @@
+# MacChanger
+
 ### Introduction
 
 Every device has a unique **MAC address** assigned by the manufacturer. When connecting to a router, this MAC address can be logged and potentially reveal your device identity.

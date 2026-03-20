@@ -30,7 +30,7 @@ The simplest way to install Browsh is to download the appropriate binary for you
 **Example for Linux (64-bit):**
 
 ```sh
-# Download the binary
+# Browsh
 wget [https://github.com/browsh-org/browsh/releases/download/v1.6.4/browsh_1.6.4_linux_amd64.rpm](https://github.com/browsh-org/browsh/releases/download/v1.6.4/browsh_1.6.4_linux_amd64.rpm)
 # Install using your package manager (example for .rpm)
 sudo rpm -i browsh_1.6.4_linux_amd64.rpm

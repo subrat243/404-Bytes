@@ -7,7 +7,7 @@ nav:
     - metasploit
     - nmap
     - python
-    - theory-techniques
+    - techniques
   - tools
   - Blog: blog
   - Tags: tags.md

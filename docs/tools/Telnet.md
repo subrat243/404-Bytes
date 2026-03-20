@@ -1,3 +1,5 @@
+# Telnet
+
 ### **Understanding Telnet**
 
 **Telnet** (port **23**) is a text-based protocol used to connect to remote systems. It provides a command-line interface for communication with other servers or services over TCP. Though it's largely replaced by SSH due to lack of encryption, it's still useful for **manual testing**, **service probing**, and **understanding protocols**.

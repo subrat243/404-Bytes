@@ -76,7 +76,7 @@ The notes are organized into logical directories. They cover foundational comman
 
 - 💻 **Foundations**
 - 🛡️ **Penetration Testing**
-- 📚 **Theory & Techniques**
+- 📚 **Techniques**
 - 🛠️ **Tools**
 - 📝 **Articles**
 

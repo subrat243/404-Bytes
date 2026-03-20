@@ -1,3 +1,5 @@
+# Anonsurf
+
 ### Introduction
 
 Anonsurf is a tool that routes **all system traffic** through the Tor network. Unlike Proxychains (which works application by application), Anonsurf anonymizes the entire operating system.

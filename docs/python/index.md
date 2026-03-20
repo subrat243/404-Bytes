@@ -4,8 +4,8 @@
 
 ## Contents
 
-- [1. Intro to Python](1.%20Intro%20to%20Python.md)
-- [2. Printing & Variables](2.%20Printing%20%26%20Variables.md)
-- [3. Data Types](3.%20Data%20Types.md)
-- [4. Typecasting](4.%20Typecasting.md)
+- [01. Intro to Python](01.%20Intro%20to%20Python.md)
+- [02. Printing & Variables](02.%20Printing%20%26%20Variables.md)
+- [03. Data Types](03.%20Data%20Types.md)
+- [04. Typecasting](04.%20Typecasting.md)
 

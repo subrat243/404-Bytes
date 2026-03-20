@@ -97,7 +97,7 @@ org:octocat filename:Dockerfile
 If you prefer CLI, `gh` provides `search code`:
 
 ```bash
-# search code across GitHub (example: Dockerfiles in an org)
+# GitHub Dorking
 gh search code 'org:octocat filename:Dockerfile' --limit 50
 ```
 

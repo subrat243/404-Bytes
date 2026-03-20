@@ -1,3 +1,5 @@
+# SMBMap
+
 SMBMap is a powerful and versatile tool used for enumerating Server Message Block (SMB) share drives across an entire domain. It is a valuable asset for penetration testers, red teamers, and system administrators to discover and map accessible network shares, check permissions, and interact with the file systems.
 
 ---

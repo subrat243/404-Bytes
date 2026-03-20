@@ -1,3 +1,5 @@
+# Dirb
+
 Dirb is a command-line tool designed to discover hidden files and directories on web servers. It functions by launching a dictionary-based brute force attack, helping security researchers and penetration testers identify potentially vulnerable or unlisted content.
 
 ---
