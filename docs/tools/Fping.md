@@ -1,4 +1,4 @@
-# fping - The High-Performance Pinger
+# Fping
 
 `fping` is a command-line tool used to send ICMP Echo Request packets to network hosts, similar to `ping`, but with a focus on performance and scripting. Unlike the standard `ping` which tests a single host at a time, `fping` can ping multiple hosts in parallel. It is an essential tool for network administrators and security professionals for network discovery, monitoring, and diagnostics.
 
