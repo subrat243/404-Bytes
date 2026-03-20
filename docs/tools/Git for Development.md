@@ -114,9 +114,3 @@ git commit -m "Feature update"  # Commit changes
 git push origin main            # Push to GitHub
 ```
 
----
-**Access token**
-
-```
-ghp_<YOUR_GITHUB_PERSONAL_ACCESS_TOKEN>
-```
