@@ -24,7 +24,7 @@
 
 ## 🚀 What is this?
 
-**404Byte** is my personal knowledge base for security research, CTF writeups, and tool references. Built with MkDocs Material and auto-deployed to GitHub Pages on every push — zero manual steps.
+**404>Bytes** is my personal knowledge base for security research, CTF writeups, and tool references. Built with MkDocs Material and auto-deployed to GitHub Pages on every push — zero manual steps.
 
 ---
 

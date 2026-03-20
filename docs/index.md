@@ -1,8 +1,8 @@
-# 404Byte
+# 404>Bytes
 
 > *"The page wasn't found, but the knowledge was."*
 
-Welcome to **404Byte** — a personal knowledge base of security notes, tool references, and articles by [subrat243](https://github.com/subrat243).
+Welcome to **404>Bytes** — a personal knowledge base of security notes, tool references, and articles by [subrat243](https://github.com/subrat243).
 
 ---
 

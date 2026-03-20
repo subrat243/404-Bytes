@@ -1,4 +1,4 @@
-site_name: 404Byte
+site_name: 404>Bytes
 site_url: https://subrat243.github.io/404Byte/
 site_description: "Security notes, writeups, and articles by subrat243"
 site_author: subrat243
@@ -10,12 +10,12 @@ theme:
   name: material
   custom_dir: overrides
   palette:
-    scheme: slate
-    primary: black
-    accent: cyan
+    scheme: default
+    primary: white
+    accent: indigo
   font:
-    text: JetBrains Mono
-    code: JetBrains Mono
+    text: Roboto
+    code: Roboto Mono
   logo: assets/logo.png
   favicon: assets/logo.png
   icon:
