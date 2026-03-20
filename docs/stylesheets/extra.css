@@ -3,3 +3,8 @@
 img {
   border-radius: 10px;
 }
+
+/* Invert the black SVG logo to white in dark mode */
+[data-md-color-scheme="slate"] .md-logo img {
+  filter: invert(1);
+}
