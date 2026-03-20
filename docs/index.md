@@ -6,18 +6,13 @@ Welcome to **404>Bytes** — a personal knowledge base of security notes, tool r
 
 ---
 
-## 📂 Notes
+## 💡 About This Knowledge Base
 
-| Category | Description |
-|---|---|
-| [Bash](bash/index.md) | Shell scripting, one-liners, automation |
-| [eJPT v2](ejpt-v2/index.md) | eLearnSecurity Junior Penetration Tester notes |
-| [Linux CLI](linux-cli/index.md) | Commands, tricks, and power-user tips |
-| [Metasploit](metasploit/index.md) | Framework usage, modules, post-exploitation |
-| [Nmap](nmap/index.md) | Scanning techniques and NSE scripts |
-| [Python](python/index.md) | Scripting for security and automation |
-| [Theory & Techniques](theory-techniques/index.md) | Core concepts, methodologies |
-| [Tools](tools/index.md) | Tool references and cheatsheets |
+Whether you are a cybersecurity student studying for certifications (like the eJPT v2), a developer looking to understand penetration testing workflows, or just a curious enthusiast, **404>Bytes** is designed to provide actionable value:
+
+- **For Students**: Clear, structured notes that strip away the fluff so you can focus on mastering the methodology and acing your exams.
+- **For Practitioners**: Easy-to-access cheat sheets, Metasploit modules, Nmap flags, and Python scripts that speed up your day-to-day hacking and debugging. 
+- **Open Knowledge**: The cybersecurity field thrives on shared information. This site is entirely open-source, ensuring everything here remains free and accessible for everyone eager to learn.
 
 ---
 
