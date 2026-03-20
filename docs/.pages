@@ -8,6 +8,6 @@ nav:
     - nmap
     - python
     - theory-techniques
-  - Tools Cheatsheet: tools
+  - tools
   - Blog: blog
   - Tags: tags.md
