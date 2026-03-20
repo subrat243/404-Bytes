@@ -74,10 +74,11 @@ graph TD
 
 The notes are organized into logical directories. They cover foundational command line skills, scripting, penetration testing methodologies and tool usage, and core theoretical concepts. There is also a dedicated space for full-length articles and CTF writeups mapped seamlessly via MkDocs' awesome pages plugin.
 
-- 💻 **Foundations**: `bash/`, `linux-cli/`, `python/`
-- 🛡️ **Penetration Testing**: `ejpt-v2/`, `metasploit/`, `nmap/`
-- 📚 **Theory & Tools**: `theory-techniques/`, `tools/`
-- 📝 **Articles**: `blog/posts/`
+- 💻 **Foundations**
+- 🛡️ **Penetration Testing**
+- 📚 **Theory & Techniques**
+- 🛠️ **Tools**
+- 📝 **Articles**
 
 ---
 
