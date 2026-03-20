@@ -1,0 +1,13 @@
+nav:
+  - Home: index.md
+  - Notes:
+    - bash
+    - ejpt-v2
+    - linux-cli
+    - metasploit
+    - nmap
+    - python
+    - theory-techniques
+    - tools
+  - Blog: blog
+  - Tags: tags.md

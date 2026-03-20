@@ -1,0 +1,82 @@
+site_name: 404Byte
+site_url: https://subrat243.github.io/404Byte/
+site_description: "Security notes, writeups, and articles by subrat243"
+site_author: subrat243
+repo_url: https://github.com/subrat243/404Byte
+repo_name: subrat243/404Byte
+copyright: Copyright &copy; 2025 subrat243
+
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    scheme: slate
+    primary: black
+    accent: cyan
+  font:
+    text: JetBrains Mono
+    code: JetBrains Mono
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+    - toc.follow
+    - announce.dismiss
+
+plugins:
+  - search
+  - awesome-pages
+  - blog:
+      blog_dir: blog
+      post_date_format: long
+      post_url_format: "{slug}"
+      authors: true
+      pagination_per_page: 5
+  - tags:
+      tags_file: tags.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - toc:
+      permalink: true
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/subrat243
+  analytics:
+    provider: google
+    property: !ENV [GOOGLE_ANALYTICS_KEY, ""]
+
+extra_css:
+  - stylesheets/extra.css
