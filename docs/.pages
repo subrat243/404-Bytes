@@ -9,6 +9,6 @@ nav:
     - python
     - tryhackme
   - tools
+  - Cheatsheet: cheatsheet
   - Blog: blog
   - Tags: tags.md
-  - Cheatsheet: cheatsheet
