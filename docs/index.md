@@ -16,6 +16,23 @@ Whether you are a cybersecurity student studying for certifications (like the eJ
 
 ---
 
+## Philosophy
+
+- No fluff. Only useful knowledge.
+- Learn by doing, not memorizing.
+- Focus on how and why, not just what.
+- Share knowledge openly.
+
+---
+
+## Approach
+
+```
+Recon → Enumeration → Exploitation → Reporting
+```
+
+---
+
 ## 📝 Latest Articles
 
 Check out the [Blog](blog/index.md) for writeups and articles.
