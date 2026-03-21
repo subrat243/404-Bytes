@@ -8,6 +8,7 @@ nav:
     - nmap
     - python
     - tryhackme
+    - collapse: true
   - tools
   - Cheatsheet: cheatsheet
   - Blog: blog
