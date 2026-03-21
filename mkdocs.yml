@@ -1,4 +1,4 @@
-site_name: 404>Bytes
+site_name: 404Byte
 site_url: https://subrat243.github.io/404Byte/
 site_description: "Security notes, writeups, and articles by subrat243"
 site_author: subrat243
@@ -8,34 +8,21 @@ copyright: Copyright &copy; 2025 subrat243
 
 theme:
   name: material
-  custom_dir: overrides
   palette:
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: white
-      accent: indigo
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: black
-      accent: indigo
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+    scheme: slate
+    primary: black
+    accent: cyan
   font:
-    text: Roboto
-    code: Roboto Mono
-  logo: assets/invader.svg
-  favicon: assets/invader.svg
+    text: JetBrains Mono
+    code: JetBrains Mono
+  favicon: assets/logo.png
   icon:
     repo: fontawesome/brands/github
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
     - navigation.indexes
     - navigation.top
     - search.suggest
@@ -44,7 +31,6 @@ theme:
     - content.code.copy
     - content.code.annotate
     - toc.follow
-    - announce.dismiss
 
 plugins:
   - search
@@ -53,10 +39,9 @@ plugins:
       blog_dir: blog
       post_date_format: long
       post_url_format: "{slug}"
-      authors: true
+      authors_file: "{blog}/.authors.yml"
       pagination_per_page: 5
-  - tags:
-      tags_file: tags.md
+  - tags
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -85,9 +70,6 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/subrat243
-  analytics:
-    provider: google
-    property: !ENV [GOOGLE_ANALYTICS_KEY, ""]
 
 extra_css:
   - stylesheets/extra.css
