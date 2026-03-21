@@ -1,9 +1,9 @@
 site_name: 404>Bytes
-site_url: https://subrat243.github.io/404Byte/
+site_url: https://subrat243.github.io/404-Bytes/
 site_description: "Security notes, writeups, and articles by subrat243"
 site_author: subrat243
-repo_url: https://github.com/subrat243/404Byte
-repo_name: subrat243/404Byte
+repo_url: https://github.com/subrat243/404-Bytes
+repo_name: subrat243/404-Bytes
 copyright: Copyright &copy; 2025 subrat243
 
 theme:

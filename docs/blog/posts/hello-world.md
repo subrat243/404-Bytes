@@ -10,7 +10,7 @@ tags:
 
 # Hello World
 
-Welcome to **404Byte**! This is my first post.
+Welcome to **404-Bytes**! This is my first post.
 
 I'll be sharing security notes, CTF writeups, tool cheatsheets, and articles here.
 

@@ -42,4 +42,4 @@ Check out the [Blog](blog/index.md) for writeups and articles.
 !!! tip "How to use this site"
     Use the **search bar** (press `/`) to find anything fast.  
     Browse categories from the **top navigation tabs**.  
-    All notes are open source — [contribute on GitHub](https://github.com/subrat243/404Byte).
+    All notes are open source — [contribute on GitHub](https://github.com/subrat243/404-Bytes).
