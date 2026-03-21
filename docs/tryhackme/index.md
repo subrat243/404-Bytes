@@ -1,4 +1,4 @@
-# Theory Techniques
+# TryHackMe
 
 > Add your notes here.
 
