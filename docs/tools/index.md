@@ -6,4 +6,3 @@ Covers tools like Nmap, Burp Suite, Metasploit, sqlmap, ffuf, Nuclei, and custom
 
 **Purpose**: To help you understand not just how to use tools, but when and why to use them effectively during penetration testing and bug bounty hunting.
 
----

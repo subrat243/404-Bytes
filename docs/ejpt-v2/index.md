@@ -15,5 +15,4 @@ A structured collection of notes, labs, and methodologies aligned with the eJPT 
 - Reporting Practices
 - Penetration Testing Lifecycle
 
----
 

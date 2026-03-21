@@ -36,4 +36,3 @@ nmap --script vuln [IP_ADDRESS]
 # Save output
 nmap -oN output.txt [IP_ADDRESS]
 ```
----

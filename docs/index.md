@@ -6,7 +6,7 @@ Welcome to **404>Bytes** — a personal knowledge base of security notes, tool r
 
 ---
 
-## 💡 About This Knowledge Base
+## About This Knowledge Base
 
 Whether you are a cybersecurity student studying for certifications (like the eJPT v2), a developer looking to understand penetration testing workflows, or just a curious enthusiast, **404>Bytes** is designed to provide actionable value:
 
@@ -33,7 +33,7 @@ Recon → Enumeration → Exploitation → Reporting
 
 ---
 
-## 📝 Latest Articles
+## Latest Articles
 
 Check out the [Blog](blog/index.md) for writeups and articles.
 
