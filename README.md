@@ -12,7 +12,7 @@
 **Personal security notes, tool references & articles**
 
 [![Deploy](https://github.com/subrat243/404Byte/actions/workflows/deploy.yml/badge.svg)](https://github.com/subrat243/404Byte/actions/workflows/deploy.yml)
-[![Pages](https://img.shields.io/badge/Live-subrat243.github.io%2F404Byte-cyan?style=flat-square&logo=github)](https://subrat243.github.io/404-Bytes/)
+[![Pages](https://img.shields.io/badge/Live-subrat243.github.io%2F404-Bytes-cyan?style=flat-square&logo=github)](https://subrat243.github.io/404-Bytes/)
 [![MkDocs](https://img.shields.io/badge/Built%20with-MkDocs%20Material-blueviolet?style=flat-square)](https://squidfunk.github.io/mkdocs-material/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
