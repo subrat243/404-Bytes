@@ -1,7 +1,7 @@
 ---
 date: 2025-01-01
 authors:
-  - subrat243
+  - Subrat Samantaray
 categories:
   - General
 tags:
